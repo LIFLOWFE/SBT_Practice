@@ -1,19 +1,19 @@
 {
-  "description": "Jungin ", 
+  "description": "Jungin Lee - BNB Chain Business Development (2022.05-2023.05)", 
   "image": "https://fancy-jelly-0baa1e.netlify.app/0.png", 
   "name": "BNB Chain",
   "attributes": [
     {
-      "trait_type": "Base", 
-      "value": "Starfish"
+      "trait_type": "Role", 
+      "value": "Business Development Manager"
     }, 
     {
-      "trait_type": "Eyes", 
-      "value": "Big"
+      "trait_type": "From", 
+      "value": "2022.05 to 2023.05"
     }, 
     {
-      "trait_type": "Mouth", 
-      "value": "Surprised"
+      "trait_type": "At", 
+      "value": "South Korea"
     }, 
     {
       "trait_type": "Level", 
@@ -22,10 +22,6 @@
     {
       "trait_type": "Stamina", 
       "value": 1.4
-    }, 
-    {
-      "trait_type": "Personality", 
-      "value": "Sad"
     }, 
     {
       "display_type": "boost_number", 
